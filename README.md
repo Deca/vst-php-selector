@@ -1,7 +1,7 @@
 # VestaCP PHP Multi Selector, PHP 5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0, 8.1, 8.2
 Vestacp, multi selector versions of php 5.6, 7.0, 7.1, 7.2, 7.3, 7.4, 8.0 , 8.1, 8.2 for Ubuntu (Debian).
 
-It has been tested and works on Ubuntu 20.04 and Debian 9.
+Forked and updated this script in order to support php 8.2, I've testded the cgi one on Ubuntu 20.04 
 
 
 
